@@ -119,13 +119,13 @@ export default function Portfolio() {
               </Button>
             </div>
             <div className="flex justify-center space-x-6">
-              <Link href="https://www.github.com/mubinkg/" className="text-muted-foreground hover:text-primary transition-colors">
+              <Link href="https://www.github.com/mubinkg/" target="_blank" className="text-muted-foreground hover:text-primary transition-colors">
                 <Github className="h-6 w-6" />
               </Link>
-              <Link href="https://www.linkedin.com/in/mubin-ice-ru/" className="text-muted-foreground hover:text-primary transition-colors">
+              <Link href="https://www.linkedin.com/in/mubin-ice-ru/" target="_blank" className="text-muted-foreground hover:text-primary transition-colors">
                 <Linkedin className="h-6 w-6" />
               </Link>
-              <Link href="" className="text-muted-foreground hover:text-primary transition-colors">
+              <Link href="mailto:mubin.ice.ru@gmail.com" target="_blank" className="text-muted-foreground hover:text-primary transition-colors">
                 <Mail className="h-6 w-6" />
               </Link>
             </div>
