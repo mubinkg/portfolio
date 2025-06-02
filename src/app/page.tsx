@@ -94,10 +94,10 @@ export default function Portfolio() {
         <div className="container mx-auto text-center">
           <div className="max-w-4xl mx-auto">
             <Image
-              src="/placeholder.svg?height=150&width=150"
+              src="/profile.png"
               alt="Profile"
               width={150}
-              height={150}
+              height={170}
               className="rounded-full mx-auto mb-8 border-4 border-primary/20"
             />
             <h1 className="text-4xl md:text-6xl font-bold mb-6">Full Stack Developer</h1>
