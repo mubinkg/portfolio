@@ -139,7 +139,7 @@ export default function Portfolio() {
           <div className="max-w-4xl mx-auto text-center">
             <h2 className="text-3xl md:text-4xl font-bold mb-8">About Me</h2>
             <p className="text-lg text-muted-foreground mb-8 leading-relaxed">
-              I'm a passionate full-stack developer with expertise in modern web technologies and cloud infrastructure.
+              I&apos;m a passionate full-stack developer with expertise in modern web technologies and cloud infrastructure.
               I specialize in building scalable applications using microservices architecture, containerization with
               Docker, and orchestration with Kubernetes. My experience spans across frontend frameworks like React and
               Next.js, backend technologies including Node.js, Nest.js, and Django, ensuring robust and efficient
@@ -329,9 +329,9 @@ export default function Portfolio() {
       <section id="contact" className="py-16 px-4 bg-muted/50">
         <div className="container mx-auto">
           <div className="max-w-2xl mx-auto text-center">
-            <h2 className="text-3xl md:text-4xl font-bold mb-8">Let's Work Together</h2>
+            <h2 className="text-3xl md:text-4xl font-bold mb-8">Let&apos;s Work Together</h2>
             <p className="text-lg text-muted-foreground mb-8">
-              I'm always interested in new opportunities and exciting projects. Let's discuss how we can bring your
+              I&apos;m always interested in new opportunities and exciting projects. Let&apos;s discuss how we can bring your
               ideas to life.
             </p>
             <div className="flex justify-center space-x-4">
