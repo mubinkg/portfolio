@@ -356,7 +356,7 @@ export default function Portfolio() {
       <footer className="py-8 px-4 border-t">
         <div className="container mx-auto text-center">
           <p className="text-muted-foreground">
-            © {new Date().getFullYear()} John Developer. Built with Next.js and Tailwind CSS.
+            © {new Date().getFullYear()} Mubin Developer.
           </p>
         </div>
       </footer>
