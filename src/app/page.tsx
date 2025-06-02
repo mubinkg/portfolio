@@ -67,7 +67,7 @@ export default function Portfolio() {
       <nav className="fixed top-0 w-full bg-background/80 backdrop-blur-sm border-b z-50">
         <div className="container mx-auto px-4 py-4">
           <div className="flex justify-between items-center">
-            <h1 className="text-2xl font-bold">John Developer</h1>
+            <h1 className="text-2xl font-bold">MUBIN</h1>
             <div className="hidden md:flex space-x-6">
               <Link href="#about" className="hover:text-primary transition-colors">
                 About
@@ -119,13 +119,13 @@ export default function Portfolio() {
               </Button>
             </div>
             <div className="flex justify-center space-x-6">
-              <Link href="#" className="text-muted-foreground hover:text-primary transition-colors">
+              <Link href="https://www.github.com/mubinkg/" className="text-muted-foreground hover:text-primary transition-colors">
                 <Github className="h-6 w-6" />
               </Link>
-              <Link href="#" className="text-muted-foreground hover:text-primary transition-colors">
+              <Link href="https://www.linkedin.com/in/mubin-ice-ru/" className="text-muted-foreground hover:text-primary transition-colors">
                 <Linkedin className="h-6 w-6" />
               </Link>
-              <Link href="#" className="text-muted-foreground hover:text-primary transition-colors">
+              <Link href="" className="text-muted-foreground hover:text-primary transition-colors">
                 <Mail className="h-6 w-6" />
               </Link>
             </div>
